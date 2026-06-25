@@ -13,7 +13,7 @@ Agent skills for running a summer camp. A starting set for directors and staff, 
 Install the whole set into your coding assistant (Claude Code, Cursor, Codex, Copilot, Gemini):
 
 ```
-npx skills add campfront/camp-skills
+npx skills add campfront/camp-skills --all
 ```
 
 Or add a single skill:
