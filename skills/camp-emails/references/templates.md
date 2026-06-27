@@ -2,7 +2,7 @@
 
 Load this for examples of the everyday emails a camp sends. Write the final version in camp-voice, get every date and amount exact, and mark anything you do not have as a `[placeholder]`. Each email does one job and carries one action.
 
-This skill covers everyday emails only. It does not include the hard messages — an injury, a serious incident, a behaviour concern, suspected abuse, or anything with safety or legal exposure. Those are drafted by the camp's own experienced staff, following its incident protocols, accreditation guidance, and legal or PR review, and a serious incident is a phone call first. There are no templates for them here, by design.
+This skill covers everyday emails only. It does not include the hard messages — an injury, a serious incident, a behavior concern, suspected abuse, or anything with safety or legal exposure. Those are drafted by the camp's own experienced staff, following its incident protocols, accreditation guidance, and legal or PR review, and a serious incident is a phone call first. There are no templates for them here, by design.
 
 ## Enrollment and nurture
 
@@ -33,7 +33,7 @@ For families whose children are away. Short and warm; the photos and website car
 Lead with a real moment, keep the dates and any deadline up top, keep it scannable, and include one action only if there is one.
 
 > Subject: What's happening at [camp]
-> A warm opening line. Upcoming dates and reminders, front and centre. A short "what's happening" section with one or two photos (with consent). One clear action, if there is one.
+> A warm opening line. Upcoming dates and reminders, front and center. A short "what's happening" section with one or two photos (with consent). One clear action, if there is one.
 
 ## Lifecycle and operational reminders
 

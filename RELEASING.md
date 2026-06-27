@@ -22,7 +22,7 @@ Two layers, both [SemVer](https://semver.org/):
 These are prose skills, not code, so "breaking" means a break in what the user relies on:
 
 - **Patch** (`1.0.0` → `1.0.1`) — wording, clarity, fixed or better examples. No change to what the skill does.
-- **Minor** (`1.0.0` → `1.1.0`) — additive: a new skill, or a substantive new section that gives the agent a capability it did not have, without changing existing behaviour.
+- **Minor** (`1.0.0` → `1.1.0`) — additive: a new skill, or a substantive new section that gives the agent a capability it did not have, without changing existing behavior.
 - **Major** (`1.0.0` → `2.0.0`) — a contract break: a skill renamed or removed, its trigger or scope narrowed so it stops firing where people relied on it, or a referenced file path moved (for example, where `camp-profile` saves its file).
 
 The collection version takes the highest bump among the skills changed in that release.
@@ -39,7 +39,7 @@ Updates are **pull, not push.** The skills CLI copies skill files into the user'
 
 A camp's context lives at `.agents/camp-profile.md` (with `.claude/camp-profile.md` as a fallback) — a file at the user's project root, outside any skill folder. Reinstalling refreshes the **shipped skill files** and never writes to that profile, so a user's setup survives every update.
 
-The one thing a reinstall does overwrite: **local edits a user made to a shipped `SKILL.md`.** The place to customise is the profile, not the skill text.
+The one thing a reinstall does overwrite: **local edits a user made to a shipped `SKILL.md`.** The place to customize is the profile, not the skill text.
 
 ## Cutting a release
 

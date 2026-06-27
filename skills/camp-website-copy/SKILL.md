@@ -15,7 +15,7 @@ version: 1.0.0
 
 # camp-website-copy
 
-Write the words on a camp's website that turn a visiting parent into an enquiry or a booking. This covers the homepage, program and session pages, enrollment pages, the about page, and FAQs. It carries standard conversion-copywriting practice with a camp layer on top.
+Write the words on a camp's website that turn a visiting parent into an inquiry or a booking. This covers the homepage, program and session pages, enrollment pages, the about page, and FAQs. It carries standard conversion-copywriting practice with a camp layer on top.
 
 It is written for you, the agent. Use camp-voice for how the copy should read, camp-profile for this camp's facts and voice, and camp-seo to know which pages should exist. A page can only sell what is true, so write the real camp well and never invent proof or promise a child a good time.
 
@@ -29,7 +29,7 @@ Start from what is known, then ask only for the gaps.
 - If no profile exists, offer to capture one with the camp-profile skill, then continue.
 
 **2. Ask only the task-specific gaps:**
-- Which page you are writing, and the one action a parent should take on it (enquire, register, book a tour, join the waitlist).
+- Which page you are writing, and the one action a parent should take on it (inquire, register, book a tour, join the waitlist).
 - The offer: ages, dates, price, what is included, deposit and payment terms, any early-bird rate or deadline.
 - The proof available: accreditation, staff credentials, ratios, real parent quotes, photos, how many families return.
 - The objections this camp hears most (cost, homesickness, safety, fit, food).

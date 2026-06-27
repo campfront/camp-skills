@@ -30,7 +30,7 @@ Start from what is known, then ask only for the gaps.
 
 **2. Ask only the task-specific gaps:**
 - The budget, and which sessions or programs need filling.
-- The one conversion that counts (an enrolled camper, a started application, a booked tour, a real enquiry), and roughly what a camper is worth.
+- The one conversion that counts (an enrolled camper, a started application, a booked tour, a real inquiry), and roughly what a camper is worth.
 - The landing page the ads will point to, and whether it is ready (see camp-website-copy).
 - Whether they have last year's family list or a website pixel, which the strongest targeting relies on.
 - What they have run before, and what happened.
@@ -45,7 +45,7 @@ Start from what is known, then ask only for the gaps.
 
 ### 1. Decide the conversion and what it is worth (all tiers)
 
-Pick the one action that counts, usually an enrolled camper, sometimes a qualified enquiry or a booked tour. Work out roughly what a camper is worth to the camp (tuition, times the years a family tends to return), so the spend stays sane. If a camper is worth a few hundred dollars in margin, the cost to win one through ads has to sit well under that.
+Pick the one action that counts, usually an enrolled camper, sometimes a qualified inquiry or a booked tour. Work out roughly what a camper is worth to the camp (tuition, times the years a family tends to return), so the spend stays sane. If a camper is worth a few hundred dollars in margin, the cost to win one through ads has to sit well under that.
 
 ### 2. Pick the platform for the job (all tiers)
 
@@ -84,7 +84,7 @@ Each platform truncates copy that runs long, so write to its limits and lead wit
 
 ### 7. Track to enrolled campers, not clicks (Full build)
 
-Clicks and form-fills are not enrollments. Wire conversion tracking through to the action that counts, and ideally back to the camp-management software, so the camp knows its cost per enrolled camper, not its cost per click. Then watch budget pacing, cost per enquiry or enrollment, and creative fatigue, and move spend to what is working.
+Clicks and form-fills are not enrollments. Wire conversion tracking through to the action that counts, and ideally back to the camp-management software, so the camp knows its cost per enrolled camper, not its cost per click. Then watch budget pacing, cost per inquiry or enrollment, and creative fatigue, and move spend to what is working.
 
 ### 8. The guardrails (all tiers)
 
