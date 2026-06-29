@@ -1,6 +1,6 @@
 ---
 name: camp-emails
-description: When the user wants to write or plan the everyday emails a summer camp sends families — enrollment and nurture emails, re-enrollment and retention, the season newsletter and in-season parent updates, lifecycle reminders (deposits, balances, forms, packing), and the email calendar across the camp year. Use for camp emails, an email sequence or drip, a newsletter, an enrollment or early-bird email, a re-enrollment or sibling offer, or a balance or forms reminder, and for email deliverability and CAN-SPAM or CASL basics. It draws on camp-voice for the writing and camp-overview for the enrollment journey. It does not write messages about an injury, a serious incident, a behaviour concern, abuse, or anything with safety or legal exposure — those are drafted by the camp's own experienced staff, not an AI assistant (see "What this skill will not do").
+description: When the user wants to write or plan the everyday emails a summer camp sends families — enrollment and nurture emails, re-enrollment and retention, the season newsletter and in-season parent updates, lifecycle reminders (deposits, balances, forms, packing), and the email calendar across the camp year. Use for camp emails, an email sequence or drip, a newsletter, an enrollment or early-bird email, a re-enrollment or sibling offer, or a balance or forms reminder, and for email deliverability and CAN-SPAM or CASL basics. It draws on camp-voice for the writing and camp-overview for the enrollment journey. It does not write messages about an injury, a serious incident, a behavior concern, abuse, or anything with safety or legal exposure — those are drafted by the camp's own experienced staff, not an AI assistant (see "What this skill will not do").
 summary: Enrollment, re-enrollment, newsletters, and reminders, in your voice.
 category: marketing
 icon: envelope
@@ -19,7 +19,7 @@ Write and plan the everyday emails a camp sends families — enrollment nurture,
 
 It is written for you, the agent. Use camp-voice for the writing, camp-profile for the camp's facts and voice, and camp-overview for the enrollment journey and the camp year. Families' and children's data is sensitive, so handle it carefully (see the compliance step).
 
-**What this skill is not for.** It does not write the hard messages — anything about an injury, a serious incident, a behaviour concern, suspected abuse, or any situation with safety, safeguarding, or legal exposure. Those are not marketing emails. They are drafted by the camp's own experienced staff, following the camp's incident protocols, its accreditation body's guidance, legal or PR review, and the reporting duties and privacy laws of its jurisdiction — and a serious incident is a phone call first, never an email. If you are asked for one of these, do not draft it. Say plainly that it needs the right people at the camp, and point to them: the director, the camp's crisis-communication plan, its accreditor (such as the ACA), and legal counsel.
+**What this skill is not for.** It does not write the hard messages — anything about an injury, a serious incident, a behavior concern, suspected abuse, or any situation with safety, safeguarding, or legal exposure. Those are not marketing emails. They are drafted by the camp's own experienced staff, following the camp's incident protocols, its accreditation body's guidance, legal or PR review, and the reporting duties and privacy laws of its jurisdiction — and a serious incident is a phone call first, never an email. If you are asked for one of these, do not draft it. Say plainly that it needs the right people at the camp, and point to them: the director, the camp's crisis-communication plan, its accreditor (such as the ACA), and legal counsel.
 
 ## Ask first
 
@@ -70,14 +70,14 @@ Most parents read on a phone — roughly two in three camp registrations happen 
 
 The same email to everyone wastes the channel — a returning family and a first-time prospect need different messages. Segment at least by where a family sits in the camp year:
 
-- **Prospects** (enquired, not registered) need reassurance and proof: what the camp is like, how registration works, what other families say.
+- **Prospects** (inquired, not registered) need reassurance and proof: what the camp is like, how registration works, what other families say.
 - **Enrolled families** need prep and logistics, then the in-season loop, then the re-enrollment ask.
 - **Returning and lapsed families** need what is new, whether their counselor is back, and the loyalty or priority window.
 - Tag further where it changes the message: session type, camper age, returning versus new, and **financial-aid or campership families**, so payment-plan and campership options reach the families who need them rather than going out as a blast.
 
 ### 4. Enrollment and nurture (Solid setup)
 
-For prospective and enquired families, a short sequence beats one blast: a warm welcome and the key facts, then reassurance on what parents actually weigh (a first time away, safety, cost), then the early-bird or deadline, and a gentle nudge to anyone who started registering and did not finish. A few specifics that matter for camps:
+For prospective and inquired families, a short sequence beats one blast: a warm welcome and the key facts, then reassurance on what parents actually weigh (a first time away, safety, cost), then the early-bird or deadline, and a gentle nudge to anyone who started registering and did not finish. A few specifics that matter for camps:
 
 - **The welcome is the most-opened email you will send** — use that attention to set expectations and drive the first action, not to say everything at once.
 - **Send an instant confirmation** after any registration or payment. A missing "you're in" leaves parents wondering whether it went through, and is a common source of anxious follow-ups.
@@ -96,7 +96,7 @@ Bringing a family back is far cheaper than winning a new one — by most estimat
 
 ### 6. The season newsletter (Solid setup)
 
-A warm, scannable update to current families. Lead with a real moment, keep the upcoming dates and any deadline front and centre for busy parents, and add two or three short highlights. Include one clear action only if there is something to act on. Get consent before any camper photo or name (see camp-social and the compliance step).
+A warm, scannable update to current families. Lead with a real moment, keep the upcoming dates and any deadline front and center for busy parents, and add two or three short highlights. Include one clear action only if there is something to act on. Get consent before any camper photo or name (see camp-social and the compliance step).
 
 ### 7. In-season parent updates (Solid setup)
 
@@ -125,7 +125,7 @@ A great email that lands in spam does nothing. The basics a camp should get righ
 Camp emails carry health details, payment information, and data about children, and the rules differ by country. Keep it practical:
 
 - **Market to the parent, not the child.** Consent that matters is the parent's, captured at registration (this is how the US children's privacy rule, COPPA, and Canada's PIPEDA work in practice). Do not collect data from a child directly, and only use a camper's name or photo in line with a **signed photo or media release**.
-- **United States — CAN-SPAM:** an opt-out regime. Every marketing email needs an honest subject and "from," a valid physical mailing address, and a clear unsubscribe that you honour promptly. A pure logistics email (a confirmation, a balance notice) is largely exempt — but the moment it also promotes something, treat it as marketing.
+- **United States — CAN-SPAM:** an opt-out regime. Every marketing email needs an honest subject and "from," a valid physical mailing address, and a clear unsubscribe that you honor promptly. A pure logistics email (a confirmation, a balance notice) is largely exempt — but the moment it also promotes something, treat it as marketing.
 - **Canada — CASL:** stricter, opt-in. You generally need consent before emailing, and "they signed up once" does not last forever — implied consent from a registration expires. Capture express opt-in at registration for Canadian families.
 - **Never put one family's private details in another family's email,** and send sensitive records through the parent portal or a secure channel rather than plain email where you can.
 
@@ -145,7 +145,7 @@ The templates for each email type are in `references/templates.md`.
 
 ## What this skill will not do
 
-- Write a message about an injury, a serious incident, a behaviour concern, suspected abuse, or anything with safety, safeguarding, or legal exposure. These are for the camp's experienced staff and its legal, PR, and accreditation channels, not an AI assistant. If asked, decline and point to the right people.
+- Write a message about an injury, a serious incident, a behavior concern, suspected abuse, or anything with safety, safeguarding, or legal exposure. These are for the camp's experienced staff and its legal, PR, and accreditation channels, not an AI assistant. If asked, decline and point to the right people.
 - Share one child's information in a message to another family.
 - Give medical or diagnostic advice.
 - Promise an anxious parent an early pickup, which tends to reinforce homesickness.

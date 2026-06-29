@@ -36,7 +36,7 @@ The job is to orient a parent who has never heard of you, fast, and send them to
 
 ## Program or session page
 
-The job is to help a parent interested in this specific program decide to register or enquire.
+The job is to help a parent interested in this specific program decide to register or inquire.
 
 1. **Hero:** the program name, place, and ages.
 2. **The essentials, up top:** dates, ages, price, what is included, and where. Parents scan for these first, so do not bury them.
